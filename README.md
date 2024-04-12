@@ -18,14 +18,9 @@ python , C++ , C# , html
 [![Telegram](https://img.shields.io/badge/telegram-0A86C2?style=for-the-badge&logo=Telegram&logoColor=white)](t.me/im_eh_kh)
 
 
-
+[![Leetcode](https://img.shields.io/badge/leetcode-8f1212?style=for-the-badge&logo=Leetcode&logoColor=white)](https://leetcode.com/ehsan-005)
 ## ETC
 
 🧠 I'm currently learning python django framework
 
 📫 How to reach me => Links
-
-<!---
-Ehsan-004/Ehsan-004 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
