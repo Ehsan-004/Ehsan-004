@@ -1,16 +1,16 @@
 
 # Hi, I'm Ehsan! 👋
 
-I'm a computer engineering student. in student , my basic abilities will be improved and outside the university, I face real world of technology.
+I'm a computer engineering student. in university , my basic abilities will be improved and outside the university, I face real world of technology.
 
 
 ## 🚀 About Me
-trying to become a backend developer ...
+On my way to become a backend developer ...
 
 
 ## 🛠 Skills
-these are the languages and technologies I have worked with, more than two months:\
-python , C++ , C# , html 
+these are the languages and technologies I have worked with:\
+python , C++ , C# , html , mysql
 
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/ehsan-kholoosi)
