@@ -9,8 +9,7 @@ On my way to become a backend developer ...
 
 
 ## 🛠 Skills
-these are the languages and technologies I have worked with:\
-python , C++ , C# , html , mysql
+python , Django framework ,  C++ , C# , html , mysql and git
 
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/ehsan-kholoosi)
