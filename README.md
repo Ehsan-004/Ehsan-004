@@ -1,15 +1,16 @@
 
 # Hi, I'm Ehsan! 👋
 
-I'm a computer engineering student. in university , my basic abilities will be improved and outside the university, I face real world of technology.
+
+## About Me
+
+Computer Engineering student.\
+backend developer, Django and .net Core\
+Interested in ML.
 
 
-## 🚀 About Me
-On my way to become a backend developer ...
-
-
-## 🛠 Skills
-python , Django framework ,  C++ , C# , html , mysql and git
+## languages and frameworks
+ASP.NET core , Django , python , C++ , C# , HTML , CSS
 
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/ehsan-kholoosi)
@@ -18,8 +19,3 @@ python , Django framework ,  C++ , C# , html , mysql and git
 
 
 [![Leetcode](https://img.shields.io/badge/leetcode-8f1212?style=for-the-badge&logo=Leetcode&logoColor=white)](https://leetcode.com/ehsan-005)
-## ETC
-
-🧠 I'm currently learning python django framework
-
-📫 How to reach me => Links
