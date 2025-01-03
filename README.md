@@ -9,12 +9,12 @@ backend developer, Django and .net Core\
 Interested in ML.
 
 
-## languages and frameworks
+## languages
 
 python , C++ , C# , HTML , CSS
 
 
-## languages and frameworks
+## frameworks
 
 ASP.net core, Django
 
