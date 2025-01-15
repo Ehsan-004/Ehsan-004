@@ -1,29 +1,43 @@
+<div align="center">
+  <h1>Hi there 👋, I'm Ehsan</h1>
+  <h3>Back-end developer | Passionate About Image Processing & Data Analysis</h3>
+</div>
 
-# Hi, I'm Ehsan! 👋
+---
 
+### 👨‍💻 About Me
+- 🎓 I'm currently pursuing a degree in **Computer Engineering**.  
+- 💡 I have a deep interest in **Image Processing** and **Data Analysis**.  
+- 🌱 Currently learning **.NET Core** and exploring the world of **Machine Learning**.  
+- 🐍 Previously worked on **Django** and have a good grasp of it.  
+- 📚 Studying **Machine Learning algorithms** and their applications.  
 
-## About Me
+---
 
-Computer Engineering student.\
-backend developer, Django and .net Core\
-Interested in ML.
+### 🛠️ Skills
+- **Languages & Frameworks:**  
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+  ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+  ![.NET Core](https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
+---
 
-## languages
+### 🚀 Projects
+Here are some of the projects I’ve worked on (or plan to showcase):  
 
-python , C++ , C# , HTML , CSS
+---
 
+### 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ehsan-004&layout=compact&theme=radical" alt="Ehsan's Top Languages" />
+</div>
 
-## frameworks
+---
 
-ASP.net core, Django
+### 📬 How to Reach Me
+Feel free to connect with me through any of the platforms below:
 
-
-## 🔗 Links
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/ehsan-kholoosi)
-
-
-[![Telegram](https://img.shields.io/badge/telegram-0A86C2?style=for-the-badge&logo=Telegram&logoColor=white)](t.me/im_eh_kh)
-
-
-[![Leetcode](https://img.shields.io/badge/leetcode-8f1212?style=for-the-badge&logo=Leetcode&logoColor=white)](https://leetcode.com/ehsan-005)
+- **Telegram:** [https://t.me/im_eh_kh](https://t.me/im_eh_kh)  
+- **LinkedIn:** [http://www.linkedin.com/in/ehsan-kholoosi](http://www.linkedin.com/in/ehsan-kholoosi)  
+- **Email:** [ehsankholusi@gmail.com](mailto:ehsankholusi@gmail.com)
